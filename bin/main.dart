@@ -4,6 +4,8 @@ import 'types_n_casting.dart';
 import 'operators.dart';
 import 'if_switch.dart';
 import 'loops.dart';
+import 'collections_spreadoperator.dart';
+import 'hashsets_hashmaps.dart';
 
 void main() {
   //hello_world();
@@ -11,7 +13,7 @@ void main() {
   //dynamic_declaration();
   //string_to_int();
   //int_to_string();
-  continue_keyword();
+  hash_maps();
 }
 
 // hello (dart) world
