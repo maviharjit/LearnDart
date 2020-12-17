@@ -9,6 +9,7 @@ import 'hashsets_hashmaps.dart';
 import 'functions_n_methods.dart';
 import 'classes_and_objects.dart';
 import 'enum_class.dart';
+import 'exception_trycatch_finally_throw.dart';
 
 void main() {
   //hello_world();
@@ -16,7 +17,7 @@ void main() {
   //dynamic_declaration();
   //string_to_int();
   //int_to_string();
-  enum_class();
+  exceptions();
 }
 
 // hello (dart) world
