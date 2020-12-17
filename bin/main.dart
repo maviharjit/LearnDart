@@ -8,6 +8,7 @@ import 'collections_spreadoperator.dart';
 import 'hashsets_hashmaps.dart';
 import 'functions_n_methods.dart';
 import 'classes_and_objects.dart';
+import 'enum_class.dart';
 
 void main() {
   //hello_world();
@@ -15,7 +16,7 @@ void main() {
   //dynamic_declaration();
   //string_to_int();
   //int_to_string();
-  class_1();
+  enum_class();
 }
 
 // hello (dart) world
