@@ -10,6 +10,7 @@ import 'functions_n_methods.dart';
 import 'classes_and_objects.dart';
 import 'enum_class.dart';
 import 'exception_trycatch_finally_throw.dart';
+import 'future_async_await.dart';
 
 void main() {
   //hello_world();
@@ -17,7 +18,8 @@ void main() {
   //dynamic_declaration();
   //string_to_int();
   //int_to_string();
-  exceptions();
+  //exceptions();
+  async_examples();
 }
 
 // hello (dart) world
